@@ -1,0 +1,26 @@
+[
+  {
+    "tresc": "Rejestrowanie i obrazowanie aktywności mózgu - wskaż błędną odpowiedź:",
+    "odp": [
+      {
+        "a": "EEG",
+        "b": "EKG",
+        "c": "PET",
+        "d": "MRI"
+      }
+    ],
+    "poprawna": "b"
+  },
+  {
+    "tresc": "Część układu limbicznego, który kontroluje emocje, agresję oraz pamięć emocjonalną to:",
+    "odp": [
+      {
+        "a": "ciało migdałowate",
+        "b": "kora mózgowa",
+        "c": "hipokamp",
+        "d": "móżdżek"
+      }
+    ],
+    "poprawna": "a"
+  }
+]
