@@ -123,7 +123,7 @@ const total = +prompt("Wpisz liczbę pytań do wylosowania", 15);
         if(calculatePercentage(points, total) >= 60 && calculatePercentage(points, total) <= 100){
             Swal.fire(
             'Gratulacje!',
-            'Liczba poprawnych odpowiedzi: ' + points + "/" + total + " ("+ calculatePercentage(points, total) + "%)",
+            'Liczba poprawnych odpowiedzi: ' + points + "/" + total + " ("+ Math.round(calculatePercentage(points, total)) + "%)",
             'success'
             ).then(function(){
                 highlightAnswers(questionsArr, answersArr);
@@ -131,7 +131,7 @@ const total = +prompt("Wpisz liczbę pytań do wylosowania", 15);
         } else {
             Swal.fire(
             'Niestety :(',
-            'Liczba poprawnych odpowiedzi: ' + points + "/" + total + " ("+ calculatePercentage(points, total) + "%)",
+            'Liczba poprawnych odpowiedzi: ' + points + "/" + total + " ("+ Math.round(calculatePercentage(points, total))  + "%)",
             'error'
             ).then(function(){
                 highlightAnswers(questionsArr, answersArr);
@@ -164,7 +164,7 @@ const total = +prompt("Wpisz liczbę pytań do wylosowania", 15);
 
       function generateQuestion(questions, id){
         let html = "";
-        html += "<div class='tile' id='q-" + id + "'>";
+        html += "<div class='tile'>";
         html += "<div class='q-body'>" + id + ". " + questions[id-1].body + "</div>";
         html += "<ul class='q-answers'>";
         html += "<li id='q-"+id+"-a'>a) "+questions[id-1].answer.a+"</li>";
