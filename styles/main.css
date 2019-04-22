@@ -1,0 +1,77 @@
+* {
+  font-family: "Catamaran", sans-serif;
+}
+
+body {
+  background-color: #1971b1;
+}
+.container-fluid {
+  color: #ffffff;
+}
+
+.tile {
+  border-radius: 25px;
+  padding: 20px;
+  width: 40%;
+  height: 20%;
+  background: #ffffff;
+  color: #000;
+  margin: auto;
+  margin-bottom: 2%;
+}
+
+.q-body {
+    font-size: 1.5em;
+    cursor: help;
+    margin-bottom: 15px;
+}
+
+.q-answers {
+    list-style-type: none;
+    font-size: 1.1em;
+    cursor: pointer;
+    padding-inline-start: 0;
+}
+
+.q-answers li {
+    line-height: 30px;
+    transition: color 0.2s ease-out;
+}
+
+.q-answers li:hover {
+    line-height: 30px;
+    color: blue;
+}
+
+.selected{
+  color: blue;
+  font-weight: bold;
+}
+
+.correct{
+  background-color: rgba(51, 170, 51, .3);
+  font-weight: bold;
+}
+
+.wrong{
+  background-color: rgba(218, 54, 25, 0.3);
+  /* font-weight: bold; */
+  color: blue;
+}
+
+#header {
+  text-align: center;
+  margin-top: 1%;
+  margin-bottom: 2%;
+  cursor: default;
+}
+
+#finish {
+  text-align: center;
+  margin-bottom: 5%;
+}
+
+#btn-finish {
+  margin: auto;
+  display: block
+}
