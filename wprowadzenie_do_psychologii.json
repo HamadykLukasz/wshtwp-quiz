@@ -1,26 +1,702 @@
 [
   {
-    "tresc": "Rejestrowanie i obrazowanie aktywności mózgu - wskaż błędną odpowiedź:",
-    "odp": [
-      {
-        "a": "EEG",
-        "b": "EKG",
-        "c": "PET",
-        "d": "MRI"
-      }
-    ],
-    "poprawna": "b"
+    "body": "Rejestrowanie i obrazowanie aktywności mózgu - wskaż błędną odpowiedź:",
+    "answer": {
+      "a": "EEG",
+      "b": "EKG",
+      "c": "PET",
+      "d": "MRI"
+    },
+    "correct": "b"
   },
   {
-    "tresc": "Część układu limbicznego, który kontroluje emocje, agresję oraz pamięć emocjonalną to:",
-    "odp": [
-      {
-        "a": "ciało migdałowate",
-        "b": "kora mózgowa",
-        "c": "hipokamp",
-        "d": "móżdżek"
-      }
-    ],
-    "poprawna": "a"
+    "body": "Część układu limbicznego, który kontroluje emocje, agresję oraz pamięć emocjonalną to:",
+    "answer": {
+      "a": "ciało migdałowate",
+      "b": "kora mózgowa",
+      "c": "hipokamp",
+      "d": "móżdżek"
+    },
+    "correct": "a"
+  },
+  {
+    "body": "Rozgałęzione włókna neuronowe, które odbierają sygnały przychodzące to:",
+    "answer": {
+      "a": "aksony",
+      "b": "interneurony",
+      "c": "osłonka mielinowa",
+      "d": "dendryty"
+    },
+    "correct": "d"
+  },
+  {
+    "body": "Prawo wszystko albo nic dotyczy:",
+    "answer": {
+      "a": "potencjału czynnościowego",
+      "b": "rezonansu magnetycznego",
+      "c": "potencjału spoczynkowego",
+      "d": "okresu hiperpolaryzacji"
+    },
+    "correct": "a"
+  },
+  {
+    "body": "Co nie wchodzi w skład układu limbicznego?:",
+    "answer": {
+      "a": "podwzgórze",
+      "b": "kowadełko",
+      "c": "hipokamp",
+      "d": "ciało migdałowate"
+    },
+    "correct": "b"
+  },
+  {
+    "body": "Jakie cztery płyny (charaktery) znajdują się w ciele człowieka?",
+    "answer": {
+      "a": "żółć, flegma, krew, kwas",
+      "b": "woda, krew, flegma, czarna żółć",
+      "c": "żółć, krew, flegma, czarna żółć",
+      "d": "żółć, krew, śluz, czarna żółć"
+    },
+    "correct": "c"
+  },
+  {
+    "body": "Które z pięciu wymiarów osobowości w modelu pięcioczynnikowym charakteryzuje się rozmownością, energicznością i asertywnością",
+    "answer": {
+      "a": "ugodowość",
+      "b": "ekstrawersja",
+      "c": "sumienność",
+      "d": "neurotyczność"
+    },
+    "correct": "b"
+  },
+  {
+    "body": "W teorii Freuda superego to część osobowości:",
+    "answer": {
+      "a": "irracjonalna i subiektywna",
+      "b": "kierująca się zasadą realności",
+      "c": "głos wszelkich nakazów i zakazów",
+      "d": "kierująca się zasadą przyjemności"
+    },
+    "correct": "c"
+  },
+  {
+    "body": "Kto uwazał, że nieświadomość ogranicza się do niepowtarzalnych doświadczeń życiowych obejmującaych jednostki, ale obejmuje również nieświadomość zbiorową?",
+    "answer": {
+      "a": "Alfred Adler",
+      "b": "Karen Horney",
+      "c": "Zygmunt Freud",
+      "d": "Carl Jung"
+    },
+    "correct": "d"
+  },
+  {
+    "body": "Jakim celom służy 10 skali klinicznych MMPI?",
+    "answer": {
+      "a": "służy do diagnozowania osób z problemami psychicznymi z nazewnictwem psychiatrycznym",
+      "b": "do badań stałości osobowości i jej zmian zachodzących w ciągu życia u osób zdrowych",
+      "c": "do diagnozowania specyficznych zaburzeń psychicznych jak nieprawidłowe wzorce myślenia",
+      "d": "do wykazywania różnic indywidualnych w sferze potrzeb jednostki takich jak potrzeba wiedzy, afiliacji czy osiągnięć"
+    },
+    "correct": "a"
+  },
+  {
+    "body": "Który z wymienionych był ekspertem w dziedzinie badań nad ekspresjami mimicznymi?:",
+    "answer": {
+      "a": "Carl Johnson",
+      "b": "Paul Ekman",
+      "c": "Witold Witwicki",
+      "d": "Burrhus Frederic Skinner"
+    },
+    "correct": "b"
+  },
+  {
+    "body": "Co odróżnia nastrój od emocji?",
+    "answer": {
+      "a": "czas trwania i intensywność",
+      "b": "są to synonimy- nic ich nie odróżnia",
+      "c": "nastrój jest negatywny, emocja jest pozytywna",
+      "d": "nastrój jest odczuwany tylko wieczorem"
+    },
+    "correct": "a"
+  },
+  {
+    "body": "Subiektywny dobrostan to:",
+    "answer": {
+      "a": "nurt w psychologii zajmujący się badaniami dotyczącymi spełniania życiowego",
+      "b": "ogólna ocena własnego zadowolenia z życia i poczucia szczęścia",
+      "c": "wpływ jaki może mieć ogólny nastrój człowieka na jego opinie",
+      "d": "prawidłowy rozwój drobnoustrojów w organizmie"
+    },
+    "correct": "b"
+  },
+  {
+    "body": "Co NIE jest reakcją organizmu na stres:",
+    "answer": {
+      "a": "wątroba uwalnia cukier do krwi",
+      "b": "nasilenie pocenia",
+      "c": "rozszerzenie źrenic",
+      "d": "stabilizacja oddechu"
+    },
+    "correct": "d"
+  },
+  {
+    "body": "Dziedzina nauki zajmująca się badaniem zależności między procesami psychologicznymi, a działaniem systemu odpornościowego to:",
+    "answer": {
+      "a": "biofeedbackologia",
+      "b": "neuroplastyka",
+      "c": "psychoneuroimmunologia",
+      "d": "histologia"
+    },
+    "correct": "c"
+  },
+  {
+    "body": "Zaznacz dwie ogólne funkcje snu:",
+    "answer": {
+      "a": "walidacja i dekompensacja",
+      "b": "regeneracja i relaksacja",
+      "c": "konserwacja i regeneracja",
+      "d": "nostryfikacja i detoksykacja"
+    },
+    "correct": "c"
+  },
+  {
+    "body": "Czym wyróżnia się faza snu REM:",
+    "answer": {
+      "a": "mniejszą aktywnością marzeń sennych",
+      "b": "szybkimi ruchami gałek ocznych",
+      "c": "występowaniem jedynie u ludzi",
+      "d": "zajmowaniem większej ilości czasu w cyklach wcześniejszych"
+    },
+    "correct": "b"
+  },
+  {
+    "body": "Somnabulizm to:",
+    "answer": {
+      "a": "sennowłóctwo - osoby wstają z łóżka i chodzą, mimo że nadal śpią",
+      "b": "oddechowe zaburzenie snu - dotknięta nim osoba przestaje oddychać w trakcie snu",
+      "c": "senność w ciągu dnia",
+      "d": "obniżenie poziomu hydrokortyzonu"
+    },
+    "correct": "a"
+  },
+  {
+    "body": "Dwie główne funkcje marzeń sennych wg Freuda to:",
+    "answer": {
+      "a": "insomnia oraz regulacja popędów",
+      "b": "dysocjacja i koherencja",
+      "c": "rozwijanie stanów ego oraz relaksacja",
+      "d": "ochrona snu i umożliwienie spełniania pragnień"
+    },
+    "correct": "d"
+  },
+  {
+    "body": "Czym są kanabinoidy?",
+    "answer": {
+      "a": "szczególnie destrukcyjnym narkotykiem „ulicznym”",
+      "b": "aktywnymi substancjami chemicznymi zawartymi w marihuanie",
+      "c": "inhibitorami aromatazy",
+      "d": "środkami halucynogennymi otrzymywanymi z kaktusów"
+    },
+    "correct": "b"
+  },
+  {
+    "body": "Co to jest tendencyjność obserwatora?",
+    "answer": {
+      "a": "jest to błąd spowodowany osobistymi motywami i oczekiwaniami obserwującego",
+      "b": "jest to błąd spowodowany ogólnymi motywami i oczekiwaniami",
+      "c": "jest to weryfikowanie postawionej hipotezy badawczej",
+      "d": "jest to proces oceniania badawczego"
+    },
+    "correct": "a"
+  },
+  {
+    "body": "Co to jest efekt Placebo?",
+    "answer": {
+      "a": "zmiana zachowania pojawiająca się mimo braku manipulacji eksperymentalnej",
+      "b": "zmiana zachowania pod wpływem manipulacji eksperymentalnej",
+      "c": "zmiana zachowania pod wpływem leku",
+      "d": "jest to badanie wpływu procesów grupowych na funkcjonowanie jednostki"
+    },
+    "correct": "a"
+  },
+  {
+    "body": "Czym jest standaryzacja?",
+    "answer": {
+      "a": "stosowanie jednostkowych, stałych procedur we wszystkich fazach zbierania danych",
+      "b": "stosowanie wielorakich procedur we wszystkich fazach zbierania danych",
+      "c": "jest to porównywanie różnych faz zbierania danych",
+      "d": "jest to procedura do zbierania uporządkowanego materiału dowodowego"
+    },
+    "correct": "a"
+  },
+  {
+    "body": "Zawsze szukaj ... wyjaśnień zamiast wyjaśnień proponowanych, pozornie oczywistych",
+    "answer": {
+      "a": "optymalnych",
+      "b": "innych możliwości",
+      "c": "całkowicie odmiennych",
+      "d": "negatywnych"
+    },
+    "correct": "b"
+  },
+  {
+    "body": "Do środków zaradczych zaliczamy:",
+    "answer": {
+      "a": "standaryzacja, zmienna, operacjonalizacja",
+      "b": "zmienne, efekt, oczekiwanie",
+      "c": "operacjonalizacja, efekt Placebo",
+      "d": "zmienna, pytania, standaryzacja"
+    },
+    "correct": "a"
+  },
+  {
+    "body": "Czym charakteryzuje się współzachorowalność?",
+    "answer": {
+      "a": "człowiek nie może zostać zdiagnozowany według DSM-IV-TR",
+      "b": "człowiek ma zaburzenie nerwicowe , które nie da się łatwo wyleczyć",
+      "c": "człowiek ma zaburzenia psychotyczne, obejmujące strach przed śmiercią",
+      "d": "człowiek ma jednocześnie więcej niż jedno zaburzenie psychiczne"
+    },
+    "correct": "d"
+  },
+  {
+    "body": "Jaki styl atrybucji zwiększa ryzyko depresji?",
+    "answer": {
+      "a": "wewnętrzny-specyficzny-stały",
+      "b": "zewnętrzny-specyficzny-niestały",
+      "c": "zewnętrzny-globalny-stały",
+      "d": "zewnętrzny-globalny-niestały"
+    },
+    "correct": "c"
+  },
+  {
+    "body": "Czym charakteryzuje się osobowość narcystyczna?",
+    "answer": {
+      "a": "wygórowane poczucie własnego znaczenia i potrzeba nieprzerwanego uzyskania uznania i podziwu",
+      "b": "nadmierna emocjonalność i potrzeba zwracania na siebie uwagi",
+      "c": "niestabilność i intensywność w relacjach interpersonalnych, impulsywność, szczególnie w przypadkach samookaleczenia",
+      "d": "niezdolność do poszanowania praw innych, zachowania nieodpowiedzialne lub niezgodne z prawem"
+    },
+    "correct": "a"
+  },
+  {
+    "body": "Który typ zaburzenia schizofrenicznego pasuje do objawów urojeń prześladowczych lub wielkościowych:",
+    "answer": {
+      "a": "katatoniczna",
+      "b": "paranoidalna",
+      "c": "rezydualna",
+      "d": "zdezorganizowana"
+    },
+    "correct": "b"
+  },
+  {
+    "body": "Czego dotyczy definicja: Zaburzenie polegające na nadmiernym skupieniu się człowieka na chorobach lub ryzyku zachorowania mimo zapewnień, że jest zdrowy:",
+    "answer": {
+      "a": "hipochondria",
+      "b": "schizofrenia",
+      "c": "depresja",
+      "d": "fobia"
+    },
+    "correct": "a"
+  },
+  {
+    "body": "Podejście behawiorystyczne:",
+    "answer": {
+      "a": "podkreśla wrodzoną zdolność do dokonywania racjonalnych wyborów",
+      "b": "podkreśla, że zachowaniem kierują instynkty, konflikty",
+      "c": "rozpatruje zachowanie jako zdeterminowane przez zewnętrzne warunki bodźcowe",
+      "d": "bada związki między zachowaniem a mechanizmami mózgowymi"
+    },
+    "correct": "c"
+  },
+  {
+    "body": "Introspekcja, oznacza:",
+    "answer": {
+      "a": "opisywanie i przewidywanie tego co się wydarzy",
+      "b": "obserwowanie przez jednostkę własnych myśli i uczuć",
+      "c": "interpretację własnego zachowania w relacji ze społeczeństwem",
+      "d": "obserwowanie przez jednostkę zmian zachodzących na skutek procesu starzenia się"
+    },
+    "correct": "b"
+  },
+  {
+    "body": "Badając przyczyny i konsekwencje zachowania, uwzględniając społeczeństwo Polski i Ugandy, badacze wykorzystali podejście:",
+    "answer": {
+      "a": "psychodynamiczne",
+      "b": "biologiczne",
+      "c": "humanistyczne",
+      "d": "społeczno-kulturowe"
+    },
+    "correct": "d"
+  },
+  {
+    "body": "Przedstawicielem psychologii postaci był:",
+    "answer": {
+      "a": "John Dewey",
+      "b": "Edward Titchener",
+      "c": "Max Wertheimer",
+      "d": "Burrhus Frederic Skinner"
+    },
+    "correct": "c"
+  },
+  {
+    "body": "Celem psychologii jest:",
+    "answer": {
+      "a": "opis, wyjaśnianie, przewidywanie i kierowanie zachowaniem",
+      "b": "badanie i opis zachowań zbiorowości",
+      "c": "opis procesu wychowania od narodzin do okresu dojrzewania",
+      "d": "opis genetycznie uwarunkowanych zachowań ludzkich"
+    },
+    "correct": "a"
+  },
+  {
+    "body": "Aron i Westbay podają trzy wymiary miłości:",
+    "answer": {
+      "a": "namiętność, bliskość, zaangażowanie",
+      "b": "popęd seksualny, wzajemność, bliskość",
+      "c": "uległość, namiętność, zależność",
+      "d": "zaangażowanie, uległość, popęd seksualny"
+    },
+    "correct": "a"
+  },
+  {
+    "body": "Jakie trzy wymiary według Harolda Kelleya wpływają na proces atrybucji?",
+    "answer": {
+      "a": "specyficzność, konsekwencja, powszechność",
+      "b": "pecyficzność, oryginalność, zmienność",
+      "c": "dyspozycyjność, konsekwencja, zmienność",
+      "d": "żadne z powyższych"
+    },
+    "correct": "a"
+  },
+  {
+    "body": "Czym jest konformizm?",
+    "answer": {
+      "a": "świadomymi usiłowaniami mającymi na celu zmianę postaw",
+      "b": "programem zwalczającym uprzedzenia",
+      "c": "wzorcem zachowań, jakich oczekuje się od osoby funkcjonującej w danej sytuacji w grupie",
+      "d": "skłonnością ludzi do przejmowania zachowań i opinii prezentowanych przez innych członków grupy"
+    },
+    "correct": "d"
+  },
+  {
+    "body": "Co to jest polaryzacja grupowa?",
+    "answer": {
+      "a": "skłonność grupy podejmującej decyzje do niedopuszczenia niepożądanych informacji, tak żeby można było osiągnąć konsensus",
+      "b": "skłonność ludzi do przyjmowania zachowań i opinii prezentowanych przez innych członków grupy",
+      "c": "tendencja grupy do podejmowania decyzji bardziej skrajnych niż decyzje, które zostałby podjęte przez ich członków działających w pojedynkę",
+      "d": "oczekiwania grupy dotyczące akceptowanych, obojętnych postaw i zachowań jej członków"
+    },
+    "correct": "c"
+  },
+  {
+    "body": "Agresja powstająca ma podłożu procesów poznawczych, w wyniku wcześniejszego planowania, zmierzające do osiągnięcia pewnego celu to:",
+    "answer": {
+      "a": "agresja impulsywna",
+      "b": "agresja instrumentalna",
+      "c": "agresja społeczna",
+      "d": "zachowanie prospołeczne"
+    },
+    "correct": "b"
+  },
+  {
+    "body": "Eksperymenty Salomona Asha nad konformizmem wykazują:",
+    "answer": {
+      "a": "działanie  krystalizacji norm w sytuacjach grupowych",
+      "b": "działanie reguł społecznych w sytuacjach grupowych",
+      "c": "działanie wpływu normatywnego w sytuacjach grupowych",
+      "d": "działanie wpływu informacyjnego w sytuacjach grupowych"
+    },
+    "correct": "c"
+  },
+  {
+    "body": "Co to jest PTSD?",
+    "answer": {
+      "a": "ogólny syndrom adaptacyjny",
+      "b": "stres chroniczny",
+      "c": "zespół stresu pourazowego",
+      "d": "fizjologiczna reakcja na stres"
+    },
+    "correct": "c"
+  },
+  {
+    "body": "W Stanfordzkim Eksperymencie Więziennym strażnicy często znęcali się nad więźniami. Wynik ten sugeruje, że…",
+    "answer": {
+      "a": "ludzie szukają sytuacji, w których mogą dać upust swoim agresywnym impulsom",
+      "b": "niektórzy ludzie mają wrodzone predyspozycje do odgrywania roli strażników",
+      "c": "tylko agresywni ludzie są skłonni przyjąć rolę strażnika więziennego",
+      "d": "role społeczne mają istotny wpływ na to, jak ludzie się zachowują"
+    },
+    "correct": "d"
+  },
+  {
+    "body": "W eksperymencie Milgrama nad posłuszeństwem wielu ludzi protestowało, twierdząc, że nie chcą wymierzać więcej wstrząsów. Potem…",
+    "answer": {
+      "a": "eksperymentator mówił im, że eksperyment jest skończony",
+      "b": "większość uczestników rezygnowała z udziału w eksperymencie",
+      "c": "większość uczestników kontynuowała wymierzanie wstrząsów",
+      "d": "eksperymentator uczestników, żeby obniżyli napięcie wstrząsów"
+    },
+    "correct": "c"
+  },
+  {
+    "body": "O dyfuzji odpowiedzialności mówimy gdy:",
+    "answer": {
+      "a": "osoba jest gotowa do udzielenia pomocy osobie w potrzebie",
+      "b": "osoba wykazuje zachowania, które wyrządzają psychiczną lub fizyczną krzywdę innym ludziom",
+      "c": "w sytuacji zagrożenia, im większa jest liczba świadków zdarzenia tym  mniejsza odpowiedzialność za udzielenie pomocy odczuwa każda z nich",
+      "d": "ludzie przejawiają zachowania altruistyczne, ponieważ oczekują, że inni ludzie również będą w zamian zachowywać się altruistycznie wobec nich"
+    },
+    "correct": "c"
+  },
+  {
+    "body": "Dysonans poznawczy to:",
+    "answer": {
+      "a": "teoria, zgodnie z którą napięcie wywołane rozbieżnością elementów poznawczych motywuje ludzi do zredukowania tego napięcia",
+      "b": "teoria perswazji określająca prawdopodobieństwo, że ludzie skoncentrują swoje procesy poznawcze na opracowaniu przekazu perswazyjnego i w związku tym zostaje wykorzystany centralny lub peryferyjny tor perswazji",
+      "c": "oczekiwania grupy dotyczące akceptowanych, odpowiednich postaw i zachowań jej członków",
+      "d": "społecznie określony wzorzec zachowań oczekiwanych od osoby funkcjonującej w danej sytuacji lub grupie"
+    },
+    "correct": "a"
+  },
+  {
+    "body": "Czym jest stresor?",
+    "answer": {
+      "a": "zespół specyficznych lub niespecyficznych reakcji organizmu na bodźce zakłócające jego równowagę",
+      "b": "wewnętrzne lub zewnętrzne zdarzenie lub bodziec, wywołujące stres",
+      "c": "przejściowy stan pobudzenia mający zwykle jasno określony początek i przebieg reakcji",
+      "d": "odpowiedzi a i c są poprawne"
+    },
+    "correct": "b"
+  },
+  {
+    "body": "Teoria głosząca, że bodziec wyzwalający zapoczątkowuje reakcję behawioralną, która wysyła różnego rodzaju sensoryczne i motoryczne informacje zwrotne do mózgu, co wywołuje odczucie określonej emocji",
+    "answer": {
+      "a": "teoria ośrodków procesów nerwowych Barda-Cannona",
+      "b": "teoria emocji Jamesa-Langego",
+      "c": "teoria poznawczej oceny emocji Stanleya Schachtera",
+      "d": "żadna z powyższych"
+    },
+    "correct": "b"
+  },
+  {
+    "body": "Ogólna ocena własnego zadowolenia z życia i poczucia szczęścia to:",
+    "answer": {
+      "a": "psychologia pozytywna",
+      "b": "ogólny syndrom adaptacyjny",
+      "c": "subiektywny dobrostan",
+      "d": "poznawcza ocena emocji"
+    },
+    "correct": "c"
+  },
+  {
+    "body": "Biofeedback to:",
+    "answer": {
+      "a": "technika samoregulacji stosowana do kontroli ciśnienia krwi, relaksacji mięśni czoła, zmniejszenie rumienienia się",
+      "b": "stan w którym zmniejsza się napięcie mięśni, aktywność korowa, tętno i ciśnienie",
+      "c": "skomplikowana reakcja biorąca pod uwagę subiektywną percepcję",
+      "d": "technika samoregulacji emocji"
+    },
+    "correct": "a"
+  },
+  {
+    "body": "Który z wymienionych symptomów jest negatywnym objawem schizofrenii?",
+    "answer": {
+      "a": "halucynacje",
+      "b": "niespójna mowa",
+      "c": "urojenia",
+      "d": "wycofanie społeczne"
+    },
+    "correct": "d"
+  },
+  {
+    "body": "Profesor Hexter jest przekonany, że nieświadome konflikty często wywołują zaburzenia psychiczne. Jakie podejście do psychopatologii prezentuje profesor Hexter?",
+    "answer": {
+      "a": "psychodynamiczne",
+      "b": "socjokulturowe",
+      "c": "poznawcze",
+      "d": "behawioralne"
+    },
+    "correct": "a"
+  },
+  {
+    "body": "Które z wymienionych zachowań ogólnie nie potwierdzają diagnozy ADHD?",
+    "answer": {
+      "a": "Manfred wykrzykuje odpowiedzi podczas pracy na lekcji",
+      "b": "Manfred gubi zabawki i przybory szkole",
+      "c": "Manfred wierci się w klasie",
+      "d": "Manfred płacze, kiedy inne dzieci mu dokuczają"
+    },
+    "correct": "d"
+  },
+  {
+    "body": "Jaki styl atrybucji zwiększa ryzyko depresji?",
+    "answer": {
+      "a": "wewnętrzny - specyficzny - stały",
+      "b": "zewnętrzny – specyficzny – niestały",
+      "c": "wewnętrzny - globalny - stały",
+      "d": "zewnętrzny – globalny – niestały "
+    },
+    "correct": "c"
+  },
+  {
+    "body": "Choć Ewa nie ma żadnej dysfunkcji organicznej, często zapomina ważnych osobistych doświadczeń. Może to świadczyć o:",
+    "answer": {
+      "a": "amnezji dysocjacyjnej",
+      "b": "hipochondrii",
+      "c": "zaburzeniach somatyzacyjnym",
+      "d": "zaburzonej osobowości zależnej"
+    },
+    "correct": "a"
+  },
+  {
+    "body": "Do jakiego obszaru świadomość wg Freuda muszą być wyparte wspomnienia?",
+    "answer": {
+      "a": "świadomości",
+      "b": "nieświadomości",
+      "c": "przedświadomości",
+      "d": "treści jawnej"
+    },
+    "correct": "b"
+  },
+  {
+    "body": "Do czego może doprowadzić intensywnej zażywanie substancji psychoaktywnej?",
+    "answer": {
+      "a": "do powstania większej ilości neuronów",
+      "b": "do uzależnienia fizjologicznego",
+      "c": "do poprawy koncentracji, uwagi",
+      "d": "do sprawniejszego działania kory przedczołowej"
+    },
+    "correct": "b"
+  },
+  {
+    "body": "Do czego służą protokoły głośnego myślenia?",
+    "answer": {
+      "a": "do udokumentowania strategii umysłowych oraz sposobów reprezentowania wiedzy",
+      "b": "do dotarcia do treści podświadomych",
+      "c": "do określenia cech osobowości",
+      "d": "do wprowadzenia w stan hipnozy"
+    },
+    "correct": "a"
+  },
+  {
+    "body": "Jeżeli w czasie snu występują zaburzeniach oddychania to taki stan nazywa się?",
+    "answer": {
+      "a": "bezdech w czasie snu",
+      "b": "somnambilizm",
+      "c": "bezsenność",
+      "d": "narkolepsja"
+    },
+    "correct": "a"
+  },
+  {
+    "body": "Jak działają w mózgu środki halucynogenne?",
+    "answer": {
+      "a": "hamują przekaźnik GABA",
+      "b": "powodują skurcze żołądka",
+      "c": "powodują obumarcie spoidła wielkiego",
+      "d": "hamują wydzielania serotoniny"
+    },
+    "correct": "a"
+  },
+  {
+    "body": "Genetyka ludzkiego zachowania to...",
+    "answer": {
+      "a": "relatywny wpływ czynników genetycznych",
+      "b": "obszar badań zajmujących się genetyczną składowa różnic indywidualnych w zakresie zachowań i cech",
+      "c": "informacja genetyczna organizmy przechowywana w DNA na chromosomach",
+      "d": "cecha, która pozostaje pod wpływem pod więcej niż jednego genu"
+    },
+    "correct": "b"
+  },
+  {
+    "body": "Czym jest potencjał czynnościowy?",
+    "answer": {
+      "a": "impuls nerwowy aktywizujący w neuronie, przenoszący się wzdłuż aksonu i powodujący wydzielanie neuroprzekaźników do synapsy",
+      "b": "część błony komórkowej neuronów, która umożliwia selektywny przepływ niektórych jonów",
+      "c": "polaryzacja cytoplazmy w neuronie umożliwiająca wytwarzanie potencjału",
+      "d": "zasada zgodnie z którą potencjał jest niezależny od wzrostu intensywności "
+    },
+    "correct": "a"
+  },
+  {
+    "body": "Uszkodzenie lub zniszczenie tkanki mózgowej to:",
+    "answer": {
+      "a": "ośrodek Broci",
+      "b": "lezja",
+      "c": "udar",
+      "d": "amnezja"
+    },
+    "correct": "b"
+  },
+  {
+    "body": "Który z układów nerwowych NIE istnieje?",
+    "answer": {
+      "a": "obwodowy",
+      "b": "somatyczny",
+      "c": "sortokodozowy",
+      "d": "autonomiczny"
+    },
+    "correct": "c"
+  },
+  {
+    "body": "Układ limbiczny występuje u:",
+    "answer": {
+      "a": "ssaków",
+      "b": "gadów",
+      "c": "wszystkich gatunków",
+      "d": "płazów"
+    },
+    "correct": "a"
+  },
+  {
+    "body": "Wiliam Sheldon zakładał, że typ …………. Charakteryzuje osoby inteligentne, twórcze i introwertyczne",
+    "answer": {
+      "a": "endomorficzny",
+      "b": "ektomorficzny",
+      "c": "mezomorficzny",
+      "d": "polimorficzny"
+    },
+    "correct": "b"
+  },
+  {
+    "body": "Według Freuda w wieku 4-5 lat dzieci są w …………….. stadium rozwoju psychoseksualnego. ",
+    "answer": {
+      "a": "genitalnym",
+      "b": "oralnym",
+      "c": "falilicznym",
+      "d": "analnym"
+    },
+    "correct": "c"
+  },
+  {
+    "body": "Jedno z najważniejszych twierdzeń humanistycznych teorii osobowości zakłada, że ludzie dążą do …….. ",
+    "answer": {
+      "a": "poczucia wyższości",
+      "b": "stref erogennych",
+      "c": "samozachowania",
+      "d": "samorealizacji"
+    },
+    "correct": "d"
+  },
+  {
+    "body": "Test osobowości, który najbardziej bezpośrednio bada wymiar modelu pięcioczynnikowego, to ……",
+    "answer": {
+      "a": "test Rorschascha",
+      "b": "NEO-PI",
+      "c": "TAT",
+      "d": "MMPI-2"
+    },
+    "correct": "b"
+  },
+  {
+    "body": "Do czego może prowadzić nadmierna gratyfikacja na jednym z etapów rozwoju psychoseksualnego?",
+    "answer": {
+      "a": "fiksacji",
+      "b": "kompleksu Edypa",
+      "c": "zaburzeń narcystycznych",
+      "d": "depresji"
+    },
+    "correct": "a"
   }
 ]
