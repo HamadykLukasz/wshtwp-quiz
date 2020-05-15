@@ -1,12 +1,12 @@
 "use strict";
 
-const total = +prompt("Wpisz liczbę pytań do wylosowania", 15);
+const total = +prompt("Wpisz liczbę pytań do wylosowania (max = 90)", 90);
       
       (total == 0) ? location.reload() : init();
 
       function init(){
         let url =
-              "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-quiz/master/wprowadzenie_do_psychologii.json";
+              "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-quiz/master/rozwojowka.json";
           fetch(url)
               .then(function (response) {
                   return response.json();
